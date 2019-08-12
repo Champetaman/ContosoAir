@@ -1,5 +1,4 @@
 
-
 # Build Status Badge
 
 [![Build Status](https://dev.azure.com/caol29/DemoProjectJava/_apis/build/status/Champetaman.ContosoAir?branchName=master)](https://dev.azure.com/caol29/DemoProjectJava/_build/latest?definitionId=4&branchName=master)
