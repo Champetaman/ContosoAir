@@ -1,7 +1,7 @@
 {
 	"Title": "Contoso Air",
 	"Home": {
-		"HeroMessage": "Donde<br>quieres ir?"
+		"HeroMessage": "¿A Dónde<br>quieren ir compañeros?"
 	},
 	"Deals": {
 		"CitiesTitle": "Recomendado para ti",
@@ -20,8 +20,8 @@
 	},
 	"Footer": {
 		"About": {
-			"Title": "ACERCA CONTOSO",
-			"Link_1": "Quien somos",
+			"Title": "ACERCA DE CONTOSO",
+			"Link_1": "Quienes somos",
 			"Link_2": "Contactanos",
 			"Link_3": "Consejos de viaje",
 			"Link_4": "Compromiso del cliente",
